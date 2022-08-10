@@ -6,7 +6,7 @@ Pokédex que consome a API "PokéAPI - The RESTful Pokémon API".
 
 <h2>📱Tela do projeto</h2>
 
-<img src="https://user-images.githubusercontent.com/86376135/170054356-8d5b9600-807c-42f8-a8f3-0109e1f6a540.png" width="1100px"/>
+<img src="https://user-images.githubusercontent.com/86376135/183900090-3ca966ff-c76f-4826-9812-cfa33571771e.png" width="1100px"/>
 
 <h2>✒️Autor</h2>
 
